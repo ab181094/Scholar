@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Scholar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_parent">ParentActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="s">S</string>
+    <string name="title_activity_subjects">Subjects</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_topics">Topics</string>
+    <string name="title_activity_chapters">Chapters</string>
+    <string name="title_activity_contents">Contents</string>
+    <string name="enter_the_question">Enter the question</string>
+    <string name="no_of_options">No. of options</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_4">4</string>
+    <string name="enter_answer">Enter Answer</string>
+    <string name="enter_option_1">Enter option 1</string>
+    <string name="enter_option_2">Enter option 2</string>
+    <string name="enter_option_3">Enter option 3</string>
+    <string name="enter_option_4">Enter option 4</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="exam">Exam</string>
+    <string name="title_activity_test">Test</string>
+    <string name="end_test">End Test</string>
+    <string name="take_test">Take test</string>
+    <string name="add_content">Add content</string>
+    <string name="write_your_answer">Write your answer</string>
+    <string name="title_activity_summary">Summary</string>
+    <string name="you_answered_10_questions_correctly_out_of_15">You answered 10 questions correctly out of 15</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="user_id">User ID</string>
+    <string name="subscribe_successful">Successfully subscribed.</string>
+    <string name="subscribe_failed">Failed to subscribe.</string>
+    <string name="more">More</string>
+    <string name="add_to_my_list">Add to my list</string>
+    <string name="remove">Remove</string>
+    <string name="total">Total</string>
+    <string name="title_activity_my_list">My List</string>
+    <string name="create_test">Create Test</string>
+    <string name="title_activity_view_test">Tests</string>
+    <string name="title_activity_only_test">Test</string>
+    <string name="update">Update</string>
+
+    <string-array name="suggestion_array">
+        <item>What</item>
+        <item>When</item>
+        <item>Where</item>
+        <item>Who</item>
+        <item>Whom</item>
+        <item>Which</item>
+        <item>Whose</item>
+        <item>Why</item>
+        <item>How</item>
+        <item>and</item>
+        <item>plus</item>
+        <item>furthermore</item>
+        <item>moreover</item>
+        <item>in addition</item>
+        <item>also</item>
+        <item>as well as</item>
+        <item>as soon as</item>
+        <item>then</item>
+        <item>after</item>
+        <item>afterwards</item>
+        <item>next</item>
+        <item>Firstly</item>
+        <item>Secondly</item>
+        <item>Finally</item>
+        <item>but</item>
+        <item>However</item>
+        <item>though</item>
+        <item>although</item>
+        <item>nevertheless</item>
+        <item>despite</item>
+        <item>whereas</item>
+        <item>as long as,</item>
+        <item>provided that</item>
+        <item>unless</item>
+        <item>otherwise</item>
+        <item>because</item>
+        <item>due to</item>
+        <item>in order to</item>
+        <item>therefore</item>
+        <item>As a result</item>
+        <item>consequently</item>
+        <item>কখন</item>
+        <item>কি</item>
+        <item>কিভাবে</item>
+        <item>কেন</item>
+        <item>কোথায়</item>
+        <item>কে</item>
+        <item>কাকে</item>
+        <item>কাদেরকে</item>
+        <item>কার</item>
+    </string-array>
+    <string name="title_activity_test_summary">Summary</string>
+</resources>

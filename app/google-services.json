@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989800431264",
+    "firebase_url": "https://studyapps-6e28b.firebaseio.com",
+    "project_id": "studyapps-6e28b",
+    "storage_bucket": "studyapps-6e28b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989800431264:android:6d34972b0b904fa9b993c5",
+        "android_client_info": {
+          "package_name": "com.psygon.tech.scholar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989800431264-g5focvtc3j42b3u9807qju406flpd9tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psygon.tech.scholar",
+            "certificate_hash": "043316d1cbbfb3708051214d08336e688cde59bd"
+          }
+        },
+        {
+          "client_id": "989800431264-n50npohe6up6j7ncm6ogano0jhtssom4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAczjSwtKse7dDmfy1pfbvRlM2azM0S22Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989800431264-n50npohe6up6j7ncm6ogano0jhtssom4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
